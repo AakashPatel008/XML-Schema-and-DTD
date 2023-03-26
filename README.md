@@ -1,2 +1,2 @@
-# Inheritence-lab Part 1 of Concept of Internet computing course Assignment 3
-# please select hospital.java file to implement the project after downloading the repo
+# XML Schema and DTD
+# I have created the xml document, schema and dtd as per what i understood
